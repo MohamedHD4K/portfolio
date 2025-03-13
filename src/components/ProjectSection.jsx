@@ -143,12 +143,12 @@ const ProjectSection = () => {
             <img
               src="5.png"
               alt="E-commerce Mobile App"
-              className="w-60 rounded-lg shadow object-cover border border-base-200"
+              className="w-60 rounded-lg shadow md:m-auto m-auto lg:m-0 object-cover border border-base-200"
             />
             <img
               src="6.png"
               alt="E-commerce Mobile App"
-              className="w-60 rounded-lg shadow object-cover border border-base-200"
+              className="w-60 rounded-lg shadow md:inline md:m-auto m-auto hidden object-cover border border-base-200"
             />
           </div>
 
