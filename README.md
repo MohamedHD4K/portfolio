@@ -36,12 +36,12 @@ If you are developing a production application, we recommend:
 
 ## portfolio Images
 
-![Section](assets/Screenshot1.png)
+![Section](src/assets/Screenshot1.png)
 
-![Sectio](assets/Screenshot2.png)
+![Sectio](src/assets/Screenshot2.png)
 
-![Sectio](assets/Screenshot3.png)
+![Sectio](src/assets/Screenshot3.png)
 
-![Sectio](assets/Screenshot4.png)
+![Sectio](src/assets/Screenshot4.png)
 
-![Sectio](assets/Screenshot5.png)
+![Sectio](src/assets/Screenshot5.png)
