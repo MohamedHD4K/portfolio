@@ -30,15 +30,18 @@ If you are developing a production application, we recommend:
 1. Clone the repository:
    ```sh
    git clone https://github.com/MohamedHD4K
-   cd your-repo
+   cd portfolio
+   npm run dev
    ```
 
-![Section](assets/screenshot1.png)
+## portfolio Images
 
-![Sectio](assets/screenshot2.png)
+![Section](assets/Screenshot1.png)
 
-![Sectio](assets/screenshot3.png)
+![Sectio](assets/Screenshot2.png)
 
-![Sectio](assets/screenshot4.png)
+![Sectio](assets/Screenshot3.png)
 
-![Sectio](assets/screenshot5.png)
+![Sectio](assets/Screenshot4.png)
+
+![Sectio](assets/Screenshot5.png)
